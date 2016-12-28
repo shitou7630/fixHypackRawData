@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Cancel.png</file>
+        <file>images/Choosedfile.png</file>
+        <file>images/Yes.png</file>
+        <file>images/helpdoc.png</file>
+        <file>images/openfile.png</file>
+        <file>images/Quit.png</file>
+        <file>images/clear.png</file>
+        <file>images/logo.ico</file>
+        <file>images/configer.ico</file>
+        <file>logo.rc</file>
+        <file>images/edit_yes.ico</file>
+    </qresource>
+</RCC>
